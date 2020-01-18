@@ -109,7 +109,7 @@ Press the up arrow a few more times. What do you see?
 Run the `history` command. What do you see?
 
 ```
-It lis```ts all of the commands that I ran.
+It lists all of the commands that I ran.
 ```
 ### Observing the System
 
@@ -143,9 +143,7 @@ up 15 days
 How do you interpret what you see here?
 
 ```
-a = show processes for all users
-u = display the process's user/owner
-x = also show processes not attached to a terminal
+It shows the programs/processes that are running and the statistical data for each and how much CPU power it's using on my computer.
 ```
 
 * Run `top` and review the results. (Hint: You may need to use `ctrl-c` to get out of this app.) 
@@ -153,7 +151,7 @@ x = also show processes not attached to a terminal
 How do you interpret what you see here?
 
 ```
-It shows which programs are running and the statistical data for each and what it's using on my computer.
+Top seems to show the most recent/current processes that are running on my computer.
 ```
 
 ### Finding and Viewing Files
